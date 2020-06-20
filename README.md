@@ -12,3 +12,5 @@ It is possible to predict the total electricity production of wind turbines even
 The materials breakdown is achived by using interpolation or average values based on the detailed information of 5 wind turbines with different capacities. And the materials breakdown for foundations depend on the locations, monopile is assumed as the foundation type for offshore wind turbines as it is up to 80%.
 
 Meanwhile, there are many assumptions for estimatiing the input materials, like the layout of the wind farm, activities involved in transport, assembly, end_of_life disposal and maintenance.
+
+Afer generating the LCI and estimating electricity production, it is possible to perform the LCA calculations.  
